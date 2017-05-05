@@ -61,11 +61,13 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-127x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAM - MARANATHA</a>",
@@ -157,19 +159,19 @@
         {
           "items": [
             {
+              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>",
               "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
+              "authorBio": "User"
             },
             {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>",
               "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
+              "authorBio": "User"
             },
             {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
               "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+              "authorBio": "User"
             }
           ],
           "alias": "purity/components",
@@ -198,6 +200,9 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -206,10 +211,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "count": 3,
-            "showName": true,
-            "showBio": true
+            "showTitle": true
           },
           "header": "Apa Kata Mereka . . ."
         },
