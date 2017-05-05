@@ -9,14 +9,18 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 18,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-127x128-128x129.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "SAM-Maranatha",
+        "meta_descr": "Sekolah Alkitab Malam - Maranatha",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
